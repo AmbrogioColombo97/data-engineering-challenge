@@ -1,4 +1,4 @@
-# Backend Engineering Challenge
+# Data Engineering Challenge
 
 # Moving Average Calculation CLI
 
