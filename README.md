@@ -39,7 +39,7 @@ This command line application reads a stream of translation delivery events from
    ```
 - input_file: Path to the input JSON file containing the events.
 - window_size: Window size in minutes for calculating the moving average.
--   
+  
 ### Running the application
    ```bash
    python unbabel_cli.py --input_file <filename.json> --window_size <integer number>
